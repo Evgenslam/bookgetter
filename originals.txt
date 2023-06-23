@@ -1,0 +1,834 @@
+The most active uploaders, editors and moderators of the month have a chance to increase their download limit for 31 days.
+
+%s: search on Z-Library
+
+Invalid code
+
+Time for a break! You’ve left too many comments for today
+
+Your comment is too short
+
+Comments for this application are disabled
+
+Oops, some error occured!
+
+Message is too short!
+
+The password or confirmed password fields cannot be empty!
+
+Password and Confirm Password don’t match! Please try again.
+
+Your password has been changed successfully.
+
+Something went wrong. Please feel free to contact us %s to change your password. Sorry for this inconvenience :(
+
+Message is required
+
+The input data is incorrect. (The relevant parameters are missing, or the parameters are not formatted correctly)
+
+The token is invalid or already used. Please try again
+
+Account is unconfirmed!
+
+Too many attempts! Please try again
+
+Something went wrong. Please try again
+
+User name is too long!
+
+Email is too long!
+
+Paypal email is too long!
+
+Kindle email is too long!
+
+Filename template is too long!
+
+The number of pages is too large!
+
+ISBN is too long!
+
+Description is too long!
+
+Oops, the maximum comment length is %s characters
+
+Oops, the minimum comment length is %s characters
+
+Z-Alert is too long! The maximum Z-Alert length is %s characters
+
+A field type is incorrect!
+
+Field validation error!
+
+Your account was successfully confirmed. Enjoy the reading!
+
+Dear booklover
+
+Welcome to Z-Library! We have created an account for you with this email address and auto-generated password %s (to change it, go to the %s).
+
+Unfortunately, we found out that your account has been deleted. Please contact us by email %s
+
+Hello
+
+Unfortunately, we cannot process your email. Please email us using another mail service, for example, GMAIL, YAHOO, HOTMAIL, QQ, AOL, etc.
+
+Sorry for the inconvenience!
+
+Your recent donation issue
+
+You recently donated %s to Z-library via gift card. We appreciate your willingness to support us, thank you very much! 
+
+Unfortunately we cannot longer process donations below $1 due to high transaction costs, so we have to return gift card back to you.
+
+Please find your card number and claim code below. We are really sorry we have to decline your donation.
+
+Order Number: %s
+
+Claim Code: %s
+
+%s: New comment for your booklist
+
+%s: New reply to your comment
+
+Some time ago
+
+View comment
+
+Someone left a new comment on your booklist:
+
+Someone replied to your comment on the booklist:
+
+Z-Library fundraising campaign. Last call (
+
+<p>Don't miss your last chance to support us and get unlimited downloads for 31 days. There are <b>only %s days left</b> until fundraising ends (%s).</p>
+
+%s: Status of Application (No. %s) changed
+
+We have an update regarding your application <b>No. %s</b> for content removal. We wanted to inform you that the status of your application has been changed.
+
+To view the updated status of your application, please click on the following link: %s
+
+%s: New comment for your DMCA request
+
+%s: Notification of Application (No. %s)
+
+We have received your request (No. %s) to remove content. Our team of administrators will review the request, and we will notify you of the decision as soon as possible.
+
+You can track the status of your application by following this link: %s
+
+%s — your gateway to knowledge and culture.
+
+If this email went to spam, please click on "Report not spam"
+
+This will greatly help us to improve our email delivery service
+
+You can access the website using your personal domains below:
+
+Please keep your domains private! Don't disclose your personal domains and don't share links to your domains. Anyone with the link to your domain can gain access to your account.
+
+In case you can’t access your personal domains or encounter another issue, feel free to contact us by %s
+
+This is an auto generated response to your email sent to us. Please do not reply to this email, for any assistance please contact us by %s
+
+You have received this letter because of your registration at %s. If you want to be removed from this mailing list - %sUNSUBSCRIBE%s
+
+Welcome to %s. You are only one step away from becoming a part of our community! Please complete your registration by entering this code in our app:
+
+This feature is not supported when accessing the site by i2p
+
+After confirming your account, you can access the website using your personal domains below:
+
+This option is available only to users with a verified email. Please confirm your email.
+
+This feature is not yet fully supported when accessing the site by ip.%sWe will work on it and let you know as soon as it's done!
+
+Please register or log in to create Z-Alerts.
+
+Too many actions! Please try again later.
+
+Minimal amount for this coin is $%s
+
+Moldavian
+
+Upload this book
+
+Email is incorrect or in unsupported zone!
+
+%s email cannot be set up as the main email address.
+
+Please log in or register
+
+Something went wrong.<br> Please feel free to contact us by email %s, to Sign Up
+
+There are more than %s downloads from your IP %s during last 24 hours. Please sign in to your account or complete a simple registration to download more books
+
+This book isn't available for download due to the complaint of the copyright holder
+
+All winners will be rewarded with a premium account and extended downloads limit for 1 month.
+
+Since 2009
+
+Official сhannel
+
+Sign In
+
+The instruction to confirm your account has been sent to your email address
+
+Please sign out and sign in again using %s domain. Follow these steps:
+
+3. Sign in using your credentials.
+
+We recommend creating an account and sign in to avoid this problem. If you did not sign in, download limits are calculated based on your device IP address. It’s common practice for Internet providers to use shared IP addresses for multiple devices, in which case the download limit is also shared between these devices.
+
+If your copyright-protected work was posted on Z-Library without your authorization, you can submit a copyright removal request to request that the content be removed. Submitting a copyright removal request is a legal process.
+
+What to know before you submit a removal request
+
+After authorization, you will be able to save books using the «Add to Booklist» option
+
+After authorization, you will be able to save books using the «Add to Favorites» option
+
+Invalid file name format. It cannot contain symbols */\?" and etc.
+
+The filename template is too long.<br/>Please, remove some tags or other cherachers in the template
+
+After authorization, you will be able to save booklists using the «Add to Favorites» option
+
+After authorization, you will be able to convert {{itemType}} using the «File Conversion» option
+
+After authorization, you can get access to sending {{itemType}} to your Kindle using the «Send-to-Kindle» option
+
+After authorization, you will be able to send {{itemType}} to your email, Google Drive or Telegram app using the «Send to» option
+
+The file has been sent to your Kindle. Check your mailbox for the verification email from Amazon Kindle Support
+
+Personal info:
+
+If a content is removed for copyright infringement, the %sname of the copyright owner%s will be visible on the page of content.
+
+If you give us a valid legal alternative, such as the name of a company or authorized representative, we'll review and apply it if appropriate.
+
+The copyright owner name you enter will become part of the public record of your request. 
+
+Your %sfull legal name%s is required to complete a copyright removal request. It may be shared with the uploader of the content removed for copyright infringement.
+
+The %sprimary email address%s from your removal request may be shared with the uploader of the content removed for copyright infringement.
+
+Your %sphysical address%s and %sphone number%s will remain confidential unless requested as part of a lawsuit. If Z-Library is required to share any information, we’ll notify you before doing so.
+
+How to submit a copyright removal request
+
+The fastest and simplest way to submit a copyright removal request is to fill out our webform. The copyright owner or agent authorized to act on the owner’s behalf should submit the request.
+
+Submit a copyright removal request
+
+After you submit a removal request, Z-Library reviews it to make sure it’s valid and includes all the required information to comply with the law. You’ll get an email when we’ve taken action on your request.
+
+If your request is missing information or if more detail is needed, be sure to respond to the email with the necessary information, so we can process your request. Keep in mind that the content may remain on Z-Library until we’ve received this information.
+
+For example, you may be asked to:
+
+Provide a more specific title for your copyrighted work
+
+Submit evidence that you’re authorized to act on behalf of the copyright owner you’re representing
+
+You are at your personal domain!
+
+I will keep my domains in secret
+
+Follow %sthis link%s or find "@BotFather" bot on Telegram
+
+Send /newbot command
+
+Specify a name for your chatbot
+
+Choose a username for the bot
+
+Copy an entire last message from BotFather and paste it here
+
+Connect!
+
+How To Buy Crypto
+
+Donation
+
+How to buy crypto on PayPal
+
+Go to %sPayPal.com%s
+
+Click on the Crypto promotional tile More on your PayPal account %sDashboard%s
+
+From the %sCrypto%s landing page, select the Cryptocurrency you would like to buy %s(Every crypto has different commission, we recommend using ETH/LTC/ BCH)
+
+Click %sBuy%s. You may have to confirm your account (only once)
+
+Enter the amount you would like to buy
+
+Choose a payment method (PayPal balance, PayPal-linked debit card or bank account)
+
+Select %sBuy%s
+
+How to send crypto on PayPal
+
+Enter the crypto section and choose the coin you intend to transfer
+
+Click on the %sTransfer arrows%s
+
+Choose %sSend option%s
+
+Select the coin you want to send
+
+Copy and paste our crypto address or scan a QR code by tapping the QR code button to the right of the search box
+
+Enter the amount you want to send and click %sNext%s
+
+Review and tap %sSend Now%s (Please check it carefully. Crypto sent to the wrong address will be lost)
+
+Your account will be upgraded within 15 minutes. If the status of your account hasn't changed, please contact us by %s and attach a screenshot of the transaction
+
+Suggest a new subcategory
+
+We appreciate your contribution to our library. The book request will be marked as «completed» after moderation
+
+To say "Thank you" to our contributors, download the book first
+
+Post a Review
+
+Booklover
+
+PayPal is now available for buying and sending crypto
+
+In order to buy crypto, please use one of the following instructions:
+
+On Z-Library
+
+On YouTube
+
+On PayPal
+
+Go to PayPal-Crypto and select the coin you want to send
+
+Select the same coin below and choose the amount of donation
+
+Specify the amount
+
+Amount is required
+
+left to pay
+
+After successful payment, donation will be automatically applied to your account
+
+I paid it!
+
+If you experience any payment issues, you can email us at
+
+Temporarily unavailable. Sorry for this inconvenience!
+
+1. Buy an electronic giftcard at %samazon.com%s
+
+2. Email the amazon.com giftcard to %s
+
+To continue, please send the exact amount of %sBCH%s to the given address or scan the QR code with your app
+
+My Uploads
+
+Your uploaded books that have passed moderation will be displayed here
+
+Your uploaded books that are currently under review by the moderators will be displayed here
+
+Gratitude board
+
+Application
+
+Current status
+
+Resolved
+
+Waiting for reply
+
+Deleted
+
+Content requested for removal
+
+Copyright owner
+
+Contact information is a required element of a valid copyright takedown notification. Your physical address and phone number will remain confidential unless requested as part of a lawsuit. If Z-Library is required to share any information, we will notify you before doing so
+
+Affected party
+
+Only the copyright owner or an authorised %s representative can submit a copyright removal request
+
+Copyright owner name
+
+When your removal request is approved, the copyright owner name will be displayed on the page of the allegedly infringing content
+
+Primary email
+
+This information may be shared with the uploader if they request a copy of your removal request. We may email you about your takedown request if additional information is required
+
+Secondary email
+
+optional
+
+Relationship to copyrighted content
+
+Your job title or role relating to the content in question
+
+Phone
+
+This information is not shared with %s anyone other than Z-Library, unless %s requested as part of a lawsuit
+
+Street address
+
+County
+
+Postcode
+
+Do you want to cancel the application
+
+All data will be permanently deleted
+
+Cancel Application
+
+Receive email notifications
+
+Personal Telegram bot
+
+Now the telegram bot is also personal! Just use this button to link your account to Telegram and enjoy more downloads!
+
+Try it now!
+
+Open bot
+
+Bot Created and Connected!
+
+This book isn't available for download due to the complaint of the copyright holder %s
+
+Z-Recommended
+
+You don't have javascript enabled.
+
+Please enable javascript in your browser settings to make Z-Library work.
+
+Personal domain is your own third-level clearnet (public internet) domain. Use it to access the Z-library without the need for TOR or I2P networks.
+
+All Favorites
+
+Here you will see the articles that you save using the %sFavorites%s option
+
+All my booklists
+
+All my requests
+
+Show the instructions
+
+Skip the task
+
+Oops! The page you requested is only available for the books section, while you are now located in the articles section. To get access to the requested page, please use this link %s
+
+To post a comment, please confirm your account email address, and refresh the page. %s[Resend confirmation E-Mail]%s
+
+Write a Comment
+
+Post a Comment
+
+Drag and Drop
+
+files here
+
+Browse files
+
+Are you sure you want to clear the book list?
+
+Books with submitted corrections will also be deleted
+
+To continue, please send the exact amount of %s to the given address
+
+You should to pay within 1 hour
+
+Sign In/Up
+
+Don’t have an account?
+
+It seems the domains have been blocked by your Internet Provider. You can try to sign in using VPN or TOR browser
+
+Return to Sign in
+
+Disconnect bot
+
+%sPlease confirm your email address first %s. %sResend confirmation E-Mail%s%s
+
+Please %sconfirm%s your email address %s. %sResend confirmation E-Mail%s
+
+Or send any e-mail from your mailbox to %s
+
+Confirmation email has been sent
+
+Dear Z-Library user!
+
+If you didn't receive any email please do the following:
+
+check Spam and Promotion folders. In the event of success, <b>please mark the email as «not spam»</b>
+
+if you haven’t receive the email during 24 hours please let us know
+
+Return to Log In
+
+Return to Singlelogin
+
+Password confirm
+
+Set a new password
+
+Request removal
+
+Specify a link to each content separately. Links to the search results or other listings will not be considered
+
+Infringing content
+
+Add to list
+
+Contact information is a required element of a valid copyright takedown notification. Your physical address and phone number will remain confidential unless requested as part of a lawsuit. If Z-Library is required to share any information, we will notify you before doing so.
+
+Select affected party
+
+Myself
+
+My company, organisation or client
+
+Select your country of living
+
+Legal agreements
+
+I have a good-faith belief that the use of the material in the manner complained of is not authorised by the copyright owner, its agent or the law.
+
+The information in this notification is accurate and, under penalty of perjury, I am the owner, or an agent authorised to act on behalf of the owner, of an exclusive right that is allegedly infringed.
+
+Signature
+
+Make sure your signature contains your full legal name, which is usually your first and last name as stated on a government-issued ID.%s Z-Library won't be able to process your request without this info
+
+Submit complaint
+
+Complaint sent
+
+Your complaint was sent to the Administrators for review. You can check the status of your application using the "Show Application" button
+
+Show application
+
+Wrong url
+
+Your gateway to knowledge and culture. Accessible for everyone.
+
+Registration currently unavailable
+
+Report a problem
+
+%sAre you sure%s you want to report this book?%sPlease specify the reason below
+
+The file will be sent to you via the Telegram messenger. It may take up to 1-5 minutes before you receive it.
+
+Note: Make sure you have linked your account to Z-Library Telegram bot.
+
+The file will be sent to your Kindle account. It may take up to 1–5 minutes before you receive it.
+
+Remember password?
+
+Upload Cover
+
+Remove Cover
+
+Mark the article you like best or plan to download later
+
+Welcome!
+
+Alternatively, you can send any email from that mailbox to %s in order to confirm your e-mail address.
+
+if you haven’t received the email during 24 hours, please let us know
+
+Please confirm your email address to complete the registration. <br> Find the Z-Library confirmation email in your inbox.
+
+If you didn't receive any email, please do the following:
+
+Click to continue
+
+Create an Account
+
+Create an account to convert and send books to other platforms, save to favorites and booklists, and more
+
+Nickname
+
+By registering, you agree to our %sTerms of Service%s
+
+Create Account
+
+Paperback
+
+Want to add your book store? Contact us at %s
+
+DMCA Requests
+
+Search for application number...
+
+Email is copied to your clipboard
+
+Application number
+
+Remove book
+
+to access more features
+
+download history
+
+send to Email or Kindle 
+
+manage booklists
+
+save to favorites
+
+Till %s
+
+Personal
+
+Explore
+
+Z-Recommend
+
+new
+
+Contribution
+
+Project
+
+%sYour clearnet domain: %s
+
+Make a donation to Z-Library Team
+
+Booklovers! Now it is very important for us to accept your donations in cryptocurrency. It’s the safest and most reliable way to keep the service up and running
+
+By making a donation, you agree to our %sTerms of Service%s
+
+How to buy crypto?
+
+The %s most active users of the week in each category (Top Uploaders, Top Editors and Top Moderators) will get Premium status and %s daily downloads for %s days
+
+1st place - will get Premium account, unlimited downloads for 31 days
+
+Oh no! This booklist was deleted or never existed :(
+
+Recently added books
+
+Z-Library – the world’s largest e-book library. Your gateway to knowledge
+
+Book requests
+
+DMCA policy
+
+Incorrect domain. Please use 
+
+Category list
+
+My profile: Edit
+
+Suggested corrections
+
+DMCA request
+
+Recent donations
+
+Moderation section
+
+Most popular books
+
+Reset password
+
+How to donate
+
+Z-Library Project
+
+Change Password
+
+DMCA form
+
+Android app download
+
+My booklists
+
+Blog: %s
+
+My profile
+
+Hello,
+
+Seems like you are trying to upload a book with DRM protection. Unfortunately, we cannot accept such files
+
+Password is incorrect!
+
+Your account has been deleted, please contact %shere%s
+
+Please use %s to create an account
+
+Please feel all mandatory fields: %s
+
+This book was rejected by a moderator. If you do not agree with it, contact us via %s
+
+Book request match! %s people got it
+
+ Return to Log In
+
+Z-Access
+
+Stay connected to our library!
+
+Take advantage of the following options to access Z-Library. For the latest news and announcements, check out our Telegram channel
+
+Follow us on Telegram
+
+Personal domain
+
+Connect through the personal domain
+
+Android app
+
+Connect through the mobile app
+
+Connect through the Telegram bot
+
+Magic Email
+
+For account access and registration
+
+Useful links
+
+For curious book lovers
+
+Your Personal domain
+
+Here are your links to your personal domains
+
+Use our Android app for a better experience on your mobile device. With a simple and user-friendly interface, you can easily get access to our vast book collection. Download, save to favorites and send books to your Email or Kindle device. Install the app now and start your reading journey today!
+
+Now the Telegram bot is also personal! Access our vast book collection directly from your Telegram account. Simply create a bot and connect it to your library account using the button below. Enjoy additional downloads and expand your reading experience!
+
+Today, we offer the possibility of creating an account or restoring access to an existing one through a special email address.
+
+How does it work? Just send any letter from your mailbox to our magic email address %s, and you will receive your personal access to Z-Library in the auto-generated letter within 3–5 minutes. So simple!
+
+This might be useful if:
+
+you haven't received or lost your personal domains;
+
+you forgot your account password and want to restore access;
+
+you want to create a new account.
+
+Z-Library Official links
+
+Where to find information on relevant links
+
+Useful Links
+
+Your uploaded books that have been rejected by the moderators will be displayed here
+
+web uploader
+
+You havent uploaded any books yet. %sYou can use our %s to add books to the library %s
+
+Found a book you like? Save it here to your favorites by clicking on the heart icon
+
+Find the links to your personal domains here
+
+To post a comment, please %slog in%s or %sсreate account%s
+
+URL of file to be removed
+
+Include country code (e.g +44)
+
+Moderation progress for today
+
+Moderation progress for week
+
+Moderation progress for month
+
+Moderation progress for year
+
+Moderation progress overall
+
+personal recommendations
+
+Stay in touch with us using
+
+%s books <span>moderated</span> by %s moderators
+
+%s books <span>uploaded</span> by %s users
+
+How to buy crypto
+
+Your nickname is too long!
+
+Your occupation is too long!
+
+Please specify your country. The field cannot be left blank!
+
+Traditional Chinese
+
+Z-Library respects the intellectual property of others
+
+Copyright exceptions: You need to consider whether fair use, fair dealing, or a similar copyright exception applies. Z-Library may ask you to confirm you’ve made this consideration. If you do not adequately respond, the content identified in your removal request is not removed from Z-Library. If a copyright exception applies, then the removal request you submit is considered invalid.
+
+Your personal domain is a third-level clearnet (public internet) domain that you can use to access Z-Library without needing TOR or I2P networks. Our public second level domains get blocked very quickly. We believe that using personal domains may provide a longer lifespan for accessing the library.
+
+%sPlease remember to keep your domains private and not share links to your domains with others!%s Personal domains are protected by your own password and cannot be accessed by other users.
+
+How to get a personal domain
+
+Authorize on our website
+
+Visit %s to log in or create an account. After that, you will have access to your personal domain
+
+Use magic email
+
+Send any email from your mailbox to %s. You will receive your personal domain in the auto-generated reply letter
+
+Disconnect Telegram bot
+
+To get access to your personal bot, you should first authorize on our website
+
+Log in
+
+Begin your journey into the world of knowledge!
+
+Share your story
+
+Please check out the text of your story!
+
+Spam detected. Please enable javascript in your browser
+
+To continue, please send the exact amount of %sBCH%s to the given address or click or scan the QR code to open in the wallet
+
+Hello, friend! You're only one step away from becoming a part of our community! %sPlease confirm your email by following the link in the letter that we sent to %s. %sResend the letter%s%s
+
+Link is copied to your clipboard
+
+The email field is required
+
+Your confirmation code:
+
+Invalid code, please try again
+
+Confirm a new email address
+
+Enter the confirmation code we sent to your email <b>%s</b>
+
+Resend code
+
+Confirm email address
+
+You can always find your domains at %sprofile%s page.
+
+do not upload magazines, articles, lectures, school/student materials, etc.;
+
+avoid uploading bad scans, incomplete e-books or draft e-books that are only half done.
+
+allowed formats to upload: %s;
+

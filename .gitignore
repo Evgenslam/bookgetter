@@ -1,6 +1,8 @@
 originals.txt
 translations.txt
 uploader.py
+__pycache__
 __pycache__/gui.cpython-310.pyc
 __pycache__/lexicon.cpython-310.pyc
 __pycache__/utils.cpython-310.pyc
+.idea
